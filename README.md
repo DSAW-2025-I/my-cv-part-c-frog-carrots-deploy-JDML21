@@ -85,3 +85,16 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+
+https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-JDML21/
+Jose David Marmolejo Lozano
+
+
+
+ 
+
+![image](https://github.com/user-attachments/assets/5cb91657-1238-4959-bc23-9854d7061352)
+
+![image](https://github.com/user-attachments/assets/b5ff9a02-36ff-4ea9-a051-539cbf81b8a1)
+
